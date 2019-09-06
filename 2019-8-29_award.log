@@ -1,0 +1,4 @@
+2019/08/29 21:33:26 http.go:16: 有一次返问
+2019/08/29 21:33:26 mysql.go:58: sql: INSERT INTO draw(`name`,`age`) VALUES(?,?)
+2019/08/29 21:33:26 mysql.go:67: ins_id: 4
+2019/08/29 21:33:26 http.go:31: 写入数据库的id是:4
